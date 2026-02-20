@@ -101,7 +101,7 @@ export default function AboutSection() {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500">Call Anytime</p>
-                  <p className="font-bold text-gray-900">+1 (234) 567-890</p>
+                  <p className="font-bold text-gray-900"> +44 333 006 3919</p>
                 </div>
               </a>
             </div>

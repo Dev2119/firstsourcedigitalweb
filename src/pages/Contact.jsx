@@ -187,7 +187,7 @@ export default function Contact() {
                         name="phone"
                         value={formData.phone}
                         onChange={handleChange}
-                        placeholder="+1 (234) 567-890"
+                        placeholder=" +44 333 006 3919"
                         className="h-12 bg-white"
                       />
                     </div>

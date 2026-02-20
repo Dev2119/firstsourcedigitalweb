@@ -68,7 +68,7 @@ export default function Navbar() {
               </div>
               <div>
                 <p className="text-[10px] text-gray-400">Call Anytime</p>
-                <p className="text-sm font-bold text-white">+1 (234) 567-890</p>
+                <p className="text-sm font-bold text-white"> +44 333 006 3919</p>
               </div>
             </a>
 
@@ -105,7 +105,7 @@ export default function Navbar() {
               ))}
               <a href="tel:+1234567890" className="flex items-center gap-3 pt-4 border-t border-white/10">
                 <Phone className="w-5 h-5 text-[#f5a623]" />
-                <span className="text-white font-bold">+1 (234) 567-890</span>
+                <span className="text-white font-bold"> +44 333 006 3919</span>
               </a>
             </div>
           </motion.div>
